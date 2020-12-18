@@ -23,3 +23,6 @@ console.log(isUseless(process.env.CREDIT_CARD_NUMBER)); // may or may not send t
 
 ## Support
 Arkanic#3976 on discord
+
+
+(and ZestyLemonade#1012 too)
